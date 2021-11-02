@@ -2,6 +2,7 @@
 <p>1.Diagram Class.<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Diagram%20Class%20of%20Lelang.png">Here</a></p>
 <p>2.Hasil SS</p>
 <img src="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Screenshot%20(1869).png"class="image">
+<img src="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Screenshot%20(1870).png"class="image">
 <b>
   Catatan aplikasi yang dibuat:<br>
 a. Jika hendak melelang barang maka lakukan pengisian data barang dan status diisitrue(menandakan barang bisa ditawar).<br>
