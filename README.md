@@ -18,12 +18,26 @@ b. Jika ingin melakukan penawaran maka data lelang diisi, lelang ditutup ketika 
   <br>
 <b>Jika ingin melihat lebih lanjut tentang screenshot diatas bisa klik class <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Main.java">Main.java</a></b>
   <img src="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Screenshot%20(1876).png"class="image">
+  <br>
   <b>Jika ingin melihat lebih lanjut tentang screenshot diatas bisa klik class <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java">Petugas.java</a></b>
-  <br>
-  <br>
+<pre>
+Gambar pertama berisikan method askAjukanBarang yang mengandung percabangan ifelse didalamnya.Method ini dibuka dengan menampilkan <b>"Submit an item for auction?(Yes /No):"</b> setelah itu method dilanjutkan dengan percabangan apabila user menginputkan nilai/value/jumlah yang sama dengan(=) "Yes" maka akan memerintahkan petugas melakukan tugasnya dengan cara mengaktifkan method doYourJob pada class <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java">Petugas.java</a> Sesuai dengan screenshot dibawah ini.
+</pre>
+<br>
 c. Buatlah class diagram dari aplikasi ini<br>
+  Working on progress....
+  ...
+  ..
+  .
+<br>
 d. Buatlah beberapa class menjadi interface dan implementasinya<br>
+<pre>
+class menglelang merupakan java class interface sedangkan java class lelang merupakan implementasinya.<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/mengLelang.java"> mengLelang.java</a><a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Lelang.java"> Lelang.java</a>
+</pre>
 e. Buatlah enkapsulasi, tentunya variabel lokal harus di private<br>
+    <p>=&nbsp; Enkapsulasi terjadi pada class berikut : </p>
+    <p>=&ensp; two spaces gap.</p>
+    <p>=&emsp; four spaces gap.</p>
 f. Buatlah polimorfisme dalam aplikasi ini<br>
 g. Jelaskan dimana inheritance terjadi<br>
   </b>
