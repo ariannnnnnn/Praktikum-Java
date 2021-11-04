@@ -1,4 +1,4 @@
-<h3 align=center>Hi there,Welcome to my REAMDE👋</h3>
+<h3 align=center>Hi there,Welcome to my README👋</h3>
 <p>1.Diagram Class.<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Diagram%20Class%20of%20Lelang.png">Here</a></p>
 <p>2.Hasil SS</p>
 <img src="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Screenshot%20(1869).png"class="image">
@@ -35,9 +35,17 @@ d. Buatlah beberapa class menjadi interface dan implementasinya<br>
 class menglelang merupakan java class interface sedangkan java class lelang merupakan implementasinya.<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/mengLelang.java"> mengLelang.java</a><a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Lelang.java"> Lelang.java</a>
 </pre>
 e. Buatlah enkapsulasi, tentunya variabel lokal harus di private<br>
-    <p>=&nbsp; Enkapsulasi terjadi pada class berikut : </p>
-    <p>=&ensp; two spaces gap.</p>
-    <p>=&emsp; four spaces gap.</p>
+    <p>&nbsp; Enkapsulasi terjadi pada class : </p>
+    <p>&ensp; -<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Barang.java"> Barang.java</a></p>
+    <p>&ensp; -<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Masyarakat.java"> Masyarakat.java</a></p>
+    <p>&ensp; -<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java"> Petugas.java</a></p>
 f. Buatlah polimorfisme dalam aplikasi ini<br>
+  Working on progress....
+  ...
+  ..
+  .
 g. Jelaskan dimana inheritance terjadi<br>
-  </b>
+  Working on progress....
+  ...
+  ..
+  .
