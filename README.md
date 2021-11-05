@@ -25,10 +25,7 @@ Gambar pertama berisikan method askAjukanBarang yang mengandung percabangan ifel
 </pre>
 <br>
 c. Buatlah class diagram dari aplikasi ini<br>
-  Working on progress....
-  ...
-  ..
-  .
+<img src="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/ScreenshotPBO/Diagram%20Class%20of%20Lelang%20third.png"class="image">
 <br>
 d. Buatlah beberapa class menjadi interface dan implementasinya<br>
 <pre>
@@ -40,12 +37,7 @@ e. Buatlah enkapsulasi, tentunya variabel lokal harus di private<br>
     <p>&ensp; -<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Masyarakat.java"> Masyarakat.java</a></p>
     <p>&ensp; -<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java"> Petugas.java</a></p>
 f. Buatlah polimorfisme dalam aplikasi ini<br>
-  Working on progress....
-  ...
-  ..
-  .
+    <p>&nbsp; Polimorfisme terjadi dalam <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Barang.java"> Barang.java</a>,<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Lelang.java"> Lelang.java</a>,<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Masyarakat.java"> Masyarakat.java</a> dan <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java"> Petugas.java</a> bisa di lihat dengan ciri-ciri @Override</p>
 g. Jelaskan dimana inheritance terjadi<br>
-  Working on progress....
-  ...
-  ..
-  .
+    <p>&ensp;Pada class <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Lelang.java"> Lelang.java </a>dan<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/mengLelang.java"> mengLelang.java</a> memiliki diagram class yang sama persis hal ini dikarenakan adanya proses inheritance yang terjadi sejatinya hanya ada satu class tetapi karena adanya implementasi pada class Lelang dengan class mengLelang maka <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Lelang.java"> Lelang.java</a> berhak untuk mengambil/memakai/menggunakan/mengakses semua method yang berada pada class mengLelang.<br>
+    <p>&ensp;Extends dilakukan oleh class <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Masyarakat.java"> Masyarakat.java </a>dan<a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/Petugas.java"> Petugas.java</a> kepada <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/User.java"> User.java</a>.Pada class tersebut mereka semua mengambil method yang sama dari <a href="https://github.com/ariannnnnnn/praktikum-Java/blob/master/UKL-PBO/src/Lelang/User.java"> User.java</a> tetapi hasil akhir pada masing-masing cukup banyak perbedaan,hal ini membuktikan bahwa meskipun class memiliki induk yang sama tetapi tidak menutup kemungkinan bahwa tiap ankan memiliki isi yang berbeda.</p>
